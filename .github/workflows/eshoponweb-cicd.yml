@@ -9,7 +9,7 @@ env:
   LOCATION: useast
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: b475ddb6-9874-49cb-8d58-50599330cb80
-  WEBAPP-NAME: az400-webapp-marksobey
+  WEBAPP-NAME: az400-webapp-marksobey1
 
 
 jobs:
